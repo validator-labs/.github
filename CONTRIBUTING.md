@@ -34,9 +34,9 @@ and the motivations behind it.
     - :knife: ( `:knife`, spikes)
     - :art: ( `:art`, refactoring )
     - 📖 (`:book:`, documentation)
-    - :robot: (`:robot:`, CI/tests changes )
-    - :building_construction: (`:building_construction:`, epics )
-    - :shield: (`:shield:`, security changes )
+    - :robot: (`:robot:`, CI/tests changes)
+    - :building_construction: (`:building_construction:`, epics)
+    - :shield: (`:shield:`, security changes)
 
 ## Step 2: Fork this repository in GitHub
 
