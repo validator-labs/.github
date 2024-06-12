@@ -89,13 +89,12 @@ make test
 
 ## Step 8: Send the pull request
 
-Send the pull request from your feature branch to us.
-Your PR title should follow the conventional commits spec and reference the issue it is addressing. For example:
+Send the pull request from your feature branch to us, ensuring your PR title follows the conventional commits spec. For example:
 ```
-"feat: add support for signature verification (#123)"
+"feat: add support for signature verification"
 ```
 
-Be sure to also include a description that lets us know what work you did.
+Be sure to also include a description that lets us know what work you did and also a link to the issue you're addressing.
 
 Keep in mind that we like to see one issue addressed per pull request,
 as this helps keep our git history clean and we can more easily track
